@@ -1,0 +1,50 @@
+# Compiled binaries
+/build/
+/install/
+
+# Generated CMake files
+/CMakeLists.txt.user
+/CMakeLists.txt.user.*.cache
+/CMakeCache.txt
+/CMakeFiles/
+/CMakeScripts/
+/CTestTestfile.cmake
+/Makefile
+/cmake_install.cmake
+/install_manifest.txt
+
+# Generated build files
+/build/
+
+# Generated package files
+/ament_cmake_*
+/ament_cmake_core/
+/ament_cmake_export_*
+/ament_cmake_export_dependencies_*
+/ament_cmake_python/
+/ament_index/
+
+# Generated launch files
+/launch/
+
+# Generated log files
+/log/
+
+# IDE-specific files and directories
+/.vscode/
+/.cproject
+/.project
+/.settings/
+/.idea/
+*.cbp
+*.layout
+*.workspace
+
+# Other generated files
+/build/
+/colcon_*/logs/
+/workspace.*.log
+/test_results/
+
+# Ignore hidden files and directories
+.*
